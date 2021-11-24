@@ -26,12 +26,12 @@ body {
     flex-wrap: wrap;
 }
 
-.leftboxtop-item {
+.boxtop-item {
     display: flex; 
     align-items:flex-end;
 }
 
-.leftboxbottom-item {
+.boxbottom-item {
     display: flex; 
     align-items:flex-start;
     margin-top: 16px;
